@@ -1,3 +1,5 @@
+/Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/MainActivity.class
+/Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/MainActivity$1.class
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/BuildConfig.class
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/R.class
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/CardboardOverlayView$1.class
@@ -6,8 +8,6 @@
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/R$layout.class
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/R$raw.class
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/R$menu.class
-/Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/MainActivity.class
-/Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/MainActivity$1.class
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/CardboardOverlayView.class
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/CardboardOverlayView$EndAnimationListener.class
 /Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/shoheiaoki/cannyboard/R$style.class

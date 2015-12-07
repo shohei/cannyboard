@@ -354,6 +354,7 @@ public class MainActivity extends CardboardActivity implements CardboardView.Ste
         mOutputFrame.put(0, 0, data); //プレビュー画像NV21のYデータをコピーすればグレースケール画像になる
 //        Core.flip(mGray.t(), mGray90, 0); //ポートレイト＋フロントなので回転
 //        Core.flip(mGry90, mGray90, 1);
+        Core.flip(mOutputFrame, mOutputFrame, 1);
         Imgproc.Canny(mOutputFrame, mOutputFrame, 80.0, 100.0);
         Core.bitwise_not(mOutputFrame, mOutputFrame); //白黒反転
         mOutputBytes = new byte[(safeLongToInt(mOutputFrame.total())) * mOutputFrame.channels()];
