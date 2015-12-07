@@ -1,0 +1,1 @@
+/Users/shohei/Downloads/Cardboard Version2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/sveder/cardboardpassthrough/MainActivity.class
